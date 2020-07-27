@@ -1,0 +1,14 @@
+server:
+  port: 80
+
+spring:
+  application:
+    name: consul-consumer-order
+  cloud:
+    consul:
+      host: 192.168.25.128
+      port: 8500
+      discovery:
+        service-name: ${spring.application.name}
+        #向http://localhost:8006/actuator/health发送请求做健康检查
+       # health-check-url: http://${spring.cloud.client.ip-address}:${server.port}/actuator/health

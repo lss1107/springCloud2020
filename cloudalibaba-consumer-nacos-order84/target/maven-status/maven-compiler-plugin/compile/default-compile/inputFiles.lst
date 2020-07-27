@@ -1,0 +1,6 @@
+D:\java\javaTest\springCloud\mscloud\cloudalibaba-consumer-nacos-order84\src\main\java\com\atguigu\springcloud\alibaba\service\PaymentFallbackService.java
+D:\java\javaTest\springCloud\mscloud\cloudalibaba-consumer-nacos-order84\src\main\java\com\atguigu\springcloud\alibaba\service\PaymentService.java
+D:\java\javaTest\springCloud\mscloud\cloudalibaba-consumer-nacos-order84\src\main\java\com\atguigu\springcloud\alibaba\controller\CircleBreakerController.java
+D:\java\javaTest\springCloud\mscloud\cloudalibaba-consumer-nacos-order84\src\main\java\com\atguigu\springcloud\alibaba\applicationContextConfig\ApplicationContextConfig.java
+D:\java\javaTest\springCloud\mscloud\cloudalibaba-consumer-nacos-order84\src\main\java\com\atguigu\springcloud\alibaba\OrderNacosMain84.java
+D:\java\javaTest\springCloud\mscloud\cloudalibaba-consumer-nacos-order84\src\main\java\com\atguigu\springcloud\alibaba\controller\CircleBreakerFeignController.java
